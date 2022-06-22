@@ -1,4 +1,4 @@
-# Projeto Animais Fantástico (Origamid)
+# Projeto Pokédex(UP)
 🚀 A finalidade desse projeto é de colocar em prática os conceitos sobre API. <br><br>
 (Projeto realizado na faculdade - Desenvolvimento de software 👨‍💻) 🚀
 
