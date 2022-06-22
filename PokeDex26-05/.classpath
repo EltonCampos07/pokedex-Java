@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="PokeDex/PokeDex/src"/>
+	<classpathentry kind="lib" path="PokeDex/PokeDex/lib/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="PokeDex/PokeDex/lib/java-json.jar"/>
+	<classpathentry kind="output" path="PokeDex/PokeDex/bin"/>
+</classpath>
